@@ -1,0 +1,2 @@
+D:\Projet Vs\Windows\C++\Exo-Cnam\x64\Debug\Exo-Cnam.exe
+D:\Projet Vs\Windows\C++\TP_Sapin-Cnam\x64\Debug\Exo-Cnam.exe
