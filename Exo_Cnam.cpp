@@ -4,15 +4,10 @@ using namespace std;
 
 int main() {
     int num;
-    cout << "veuillez entrer un nombre entier" << endl;
+    cout << "Veuillez entrer un nombre entier" << endl;
     cin >> num;
-    if (num % 2 == 0)
-    {
-        cout << "Le nombre est pair" << endl;
-    }
-    else {
-        cout << "Ce nombre est impaire" << endl;
-    }
+    
+    cout << (num % 2 == 0) ? "Le nombre est pair" : "Ce nombre est impaire" << endl;
 
     return 0;
 }
